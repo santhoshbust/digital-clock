@@ -1,0 +1,99 @@
+body{
+    background-image:url("mm.avif") ;
+    background-repeat: no-repeat;
+    background-size: 110%;
+    
+
+}
+@font-face {
+    font-family: digital;
+    src: url(./RADIOLAND.TTF);
+}
+
+.container{
+    margin-left: 2%;
+    margin-top: 25%;
+    margin-bottom: 25%;
+    margin-right:10%;
+    font-size:45px;
+    
+    
+  
+ 
+}
+#wrapper{
+    background-color:rgba(245, 245, 245, 0.164) ;
+    color: whitesmoke;
+    width: 100%;
+    padding:7%;
+    border-style:outset;
+    position:static;
+    
+
+
+}
+
+span{
+    margin-left:5%;
+    background-color:rgba(66, 69, 227, 0.567);
+border-radius: 2px;
+padding: 35px;
+font-family:digital;
+    
+}
+#dot{
+    background-color:rgba(0, 0, 0, 0);
+    font-size: larger;
+}
+@media screen {(max-width:768px)
+
+    body{
+        background-image:url("mm.avif") ;
+        background-repeat: no-repeat;
+        background-size: 110%;
+        
+    
+    }
+    @font-face {
+        font-family: digital;
+        src: url(./RADIOLAND.TTF);
+    }
+    
+    .container{
+        margin-left: 2%;
+        margin-top: 25%;
+        margin-bottom: 25%;
+        margin-right:10%;
+        font-size:45px;
+        
+        
+      
+     
+    }
+    #wrapper{
+        background-color:rgba(245, 245, 245, 0.164) ;
+        color: whitesmoke;
+        width: 100%;
+        padding:7%;
+        border-style:outset;
+        position:static;
+        
+    
+    
+    }
+    
+    span{
+        margin-left:5%;
+        background-color:rgba(66, 69, 227, 0.567);
+    border-radius: 2px;
+    padding: 35px;
+    font-family:digital;
+        
+    }
+    #dot{
+        background-color:rgba(0, 0, 0, 0);
+        font-size: larger;
+    }
+
+  
+}
